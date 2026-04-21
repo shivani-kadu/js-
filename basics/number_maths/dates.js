@@ -21,4 +21,4 @@ console.log(myDate);
 //getmonth
 //getSeconds
 
-//vvery important  method  toLocaleString
+//very important  method  toLocaleString
